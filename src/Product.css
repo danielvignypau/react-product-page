@@ -1,0 +1,26 @@
+table {
+    background-color: #FFFFFF;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #8A8888;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.line{
+    border-color: #F4F6F6;
+}
+
+a:link{
+    color: #B51F3C;
+    text-decoration:none;
+}
+a:visited{
+    color: #B51F3C;
+    text-decoration: none;
+}

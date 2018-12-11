@@ -1,0 +1,93 @@
+.instruction{
+    text-align: center;
+    font-size: 15px;
+    font-family: Helvetica;
+    color: #8A8888;
+}
+
+.subtitle{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 15px;
+  color: #8A8888;
+}
+
+.form{
+    display: block;
+    text-align: center;
+}
+
+.input{
+  width: 70%;
+  padding: 15px 20px;
+  margin: 3px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn{
+    width: 35%;
+    padding: 12px 15px;
+    margin: 3px 0;
+    border-radius: 5px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.btn:hover{
+    background-color: #B4B9C1;
+}
+
+.dform{
+     display: block;
+    text-align: center;
+}
+
+.dinput{
+    width: 25%;
+    padding: 12px 15px;
+    margin: 3px 0;
+    border-radius: 5px;
+    font-family: Helvetica;
+}
+.dbtn{
+    width: 25%;
+    padding: 12px 15px;
+    margin: 3px 0;
+    border-radius: 5px;
+    font-family: Helvetica;
+    text-align: center;
+    background-color: #DD5B6B;
+}
+
+.dbtn:hover{
+    background-color: #B53A49;
+}
+
+.ebtn{
+    width: 25%;
+    padding: 12px 15px;
+    margin: 3px 0;
+    border-radius: 5px;
+    font-family: Helvetica;
+    text-align: center;
+    background-color: #10BDE5;
+}
+
+.ebtn:hover{
+    background-color: #11A9CC;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    font-size: 10px;
+}
